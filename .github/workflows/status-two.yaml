@@ -1,0 +1,13 @@
+---
+name: "Validate" 
+
+on:
+  push:
+
+jobs:
+  validate:
+    name: Validate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Succeed
+        run: exit 0
