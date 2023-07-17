@@ -1,5 +1,5 @@
 ---
-name: "PR: Validate Tribe and Squad Labels" 
+name: "Validate" 
 
 on:
   push:
