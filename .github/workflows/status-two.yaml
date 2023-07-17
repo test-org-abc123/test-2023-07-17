@@ -1,5 +1,5 @@
 ---
-name: "Validate" 
+name: "Validate Two" 
 
 on:
   push:
